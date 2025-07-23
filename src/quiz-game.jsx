@@ -92,7 +92,7 @@ function QuizGame() {
 
   const correctAnswers = [
     "15", 
-      "Everest", 
+      "Van Hout", 
     "Diamond", 
     " Pele",
     "H2O",
