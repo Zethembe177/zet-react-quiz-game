@@ -13,8 +13,8 @@ function QuizGame() {
     
     } ,
     {
-      question: "2. Who is the tallest footballer in the world?",
-      answers: ["Ronaldo", "Crouch", "Van Hout"]
+      question: "2. What is the tallest mountain in the world?",
+      answers: ["Ronaldo", "Crouch", "Everest"]
     } ,
     {
       question:  "3. What is the hardest natural substance on Earth?",
@@ -92,7 +92,7 @@ function QuizGame() {
 
   const correctAnswers = [
     "15", 
-      "Van Hout", 
+      "Everest", 
     "Diamond", 
     " Pele",
     "H2O",
