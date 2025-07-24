@@ -21,8 +21,8 @@ function QuizGame() {
         answers: ["Gold", "Diamond", "Steel"]
     },
     {
-      question: "4. Who won the most World Cups?",
-    answers: ["Messi", "Pele", "Maradona", ]
+      question: "4. Who invented Englissh?",
+    answers: ["William Shakespeare", "WInston Curhcill", "Margeret Thatcher", ]
     },
       {
          question: "5. What is the chemical symbol for water?",
@@ -41,8 +41,8 @@ function QuizGame() {
    
       
       {
-      question: "8. In which year did the Bafana Banfana win?",
-      answers: ["1912", "1905", "None"]
+      question: "8. In which year was ANC formed?",
+      answers: ["1912", "1905", "1912"]
     },
     
     {
@@ -98,11 +98,11 @@ function QuizGame() {
     "H2O",
     "Mars",
       "Giraffe",
-    "never",
+    "1912",
     "Leonardo da Vinci",
     "Avocado",
      "Neil Armstrong",
-    "Brazil",
+    "Canada",
     "8",
     "Parrot",
     " J.K. Rowling",
