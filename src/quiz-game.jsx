@@ -94,7 +94,7 @@ function QuizGame() {
     "15", 
       "Everest", 
     "Diamond", 
-    " Pele",
+    "William Shakespeare",
     "H2O",
     "Mars",
       "Giraffe",
